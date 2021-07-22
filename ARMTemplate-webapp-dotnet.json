@@ -25,7 +25,7 @@
         "workerSizeId": 0,
         "numberOfWorkers": "1",
         "currentStack": "dotnet",
-        "netFrameworkVersion": "v3.0",
+        "netFrameworkVersion": "v4.0",
         "hostingPlanName": "planWebapp-pf0841",
         "appInsight": "insights-pf0841"
     },
